@@ -1,5 +1,3 @@
-# Strong-Password
-
 # 🔐 Strong Password Generator
 
 This is a simple Python script that generates a **strong random password** using a mix of:
